@@ -7,7 +7,7 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
  html {
 	 font-size: 16px;
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 html {
 		 font-size: 18px;
 	}
@@ -226,7 +226,7 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
 		 bottom: 0;
 	}
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .hero .box {
 		 position: relative;
 	}
@@ -257,7 +257,7 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
 		;
 	}
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .hero .box .box__inner:after {
 		 content: &#34;
 		aspect ratio: 16:4&#34;
@@ -279,7 +279,7 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
  .article__figure {
 	 flex: 1 100%;
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .article__figure {
 		 flex: 1 0;
 	}
@@ -292,19 +292,19 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
 	 text-align: justify;
 	 margin-top: 20px;
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .article__text {
 		 flex: 2 0;
 		 margin-top: 0;
 	}
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .article__text--left {
 		 order: -1;
 		 padding-right: 40px;
 	}
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .article__text--right {
 		 padding-left: 40px;
 	}
@@ -329,7 +329,7 @@ https://fonts.googleapis.com/css?family=Nova+Mono|Lato|Oswald&#39;
 		 flex: 0 calc(25% - 20px);
 	}
 }
- @media only screen and (min-width: 992px) {
+ @media only screen and (min-width: 1192px) {
 	 .grid__item {
 		 flex: 0 calc(20% - 20px);
 	}
